@@ -16,7 +16,7 @@ body {
 #high-score {
     position: relative;
     left: 200px;
-    bottom: 50px;
+    bottom: 200px;
 }
 
 #mode-wrapper {
@@ -40,7 +40,7 @@ a.snake-link:hover {
     font-family: Verdana, arial, helvetica, sans-serif; 
     font-size: 14px;
     position:absolute;
-    width:300px;
+    width:80px;
     height:80px;
     text-align:center;
     top:50%;
